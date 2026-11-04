@@ -1,0 +1,21 @@
+NICK NA TRILHA DOS PADRÕES – PACOTE DO APLICATIVO
+==================================================
+
+O que tem nesta pasta
+- index.html ............ abre o jogo (capa -> mapa -> fases)
+- capa, mapa, f1, f2, f3  telas do jogo, com imagens e vozes
+- manifest.webmanifest .. identidade do app (nome, ícone, tela deitada)
+- sw.js ................. guarda o jogo no aparelho para funcionar sem internet
+- icons ................. ícones do Nick
+- fonts ................. letras Baloo 2 (licença livre SIL OFL, ver fonts/OFL.txt)
+- sobre.html ............ "Sobre o jogo" (objetivo, BNCC Computação EI03CO01)
+- privacidade.html ...... Política de Privacidade (exigida pela Play Store)
+- _config.yml ........... ajuste para o GitHub Pages (não apague)
+
+Importante
+- Suba TODOS os arquivos e pastas, mantendo a mesma organização.
+- O jogo precisa ser aberto por um endereço https (ex.: GitHub Pages).
+  Abrir o index.html direto do computador não ativa o modo app.
+- Para atualizar o jogo no futuro: substitua os arquivos no site pelos
+  arquivos da nova versão. Quem já tem o app recebe a atualização
+  na próxima vez que abrir com internet.
