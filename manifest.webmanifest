@@ -1,8 +1,8 @@
 {
  "id": "./",
- "name": "Nick na Trilha dos Padrões",
- "short_name": "Nick Padrões",
- "description": "Jogo educacional de padrões com o macaquinho Nick: estratégia plugada para o desenvolvimento do pensamento computacional na Educação Infantil, conforme a BNCC Computação (habilidade EI03CO01).",
+ "name": "Caju na Trilha dos Padrões",
+ "short_name": "Caju Padrões",
+ "description": "Jogo educacional de padrões com o macaquinho Caju: estratégia plugada para o desenvolvimento do pensamento computacional na Educação Infantil, conforme a BNCC Computação (habilidade EI03CO01).",
  "lang": "pt-BR",
  "dir": "ltr",
  "start_url": "./",

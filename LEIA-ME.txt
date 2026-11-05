@@ -1,4 +1,4 @@
-NICK NA TRILHA DOS PADRÕES – PACOTE DO APLICATIVO
+CAJU NA TRILHA DOS PADRÕES – PACOTE DO APLICATIVO
 ==================================================
 
 O que tem nesta pasta
@@ -6,7 +6,7 @@ O que tem nesta pasta
 - capa, mapa, f1, f2, f3  telas do jogo, com imagens e vozes
 - manifest.webmanifest .. identidade do app (nome, ícone, tela deitada)
 - sw.js ................. guarda o jogo no aparelho para funcionar sem internet
-- icons ................. ícones do Nick
+- icons ................. ícones do Caju
 - fonts ................. letras Baloo 2 (licença livre SIL OFL, ver fonts/OFL.txt)
 - sobre.html ............ "Sobre o jogo" (objetivo, BNCC Computação EI03CO01)
 - privacidade.html ...... Política de Privacidade (exigida pela Play Store)
