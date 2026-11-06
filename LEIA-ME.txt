@@ -1,4 +1,4 @@
-CAJU NA TRILHA DOS PADRÕES – PACOTE DO APLICATIVO
+O MACAQUINHO CAJU NA TRILHA DOS PADRÕES – PACOTE DO APLICATIVO
 ==================================================
 
 O que tem nesta pasta

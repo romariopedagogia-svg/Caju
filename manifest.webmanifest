@@ -1,7 +1,7 @@
 {
  "id": "./",
- "name": "Caju na Trilha dos Padrões",
- "short_name": "Caju Padrões",
+ "name": "O Macaquinho Caju na Trilha dos Padrões",
+ "short_name": "Macaquinho Caju",
  "description": "Jogo educacional de padrões com o macaquinho Caju: estratégia plugada para o desenvolvimento do pensamento computacional na Educação Infantil, conforme a BNCC Computação (habilidade EI03CO01).",
  "lang": "pt-BR",
  "dir": "ltr",
